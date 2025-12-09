@@ -1,0 +1,1 @@
+Rebase and merge rewrites your branch’s commits on top of the latest base branch, creating a clean, linear history without merge commits. It keeps the commit log tidy and ensures your branch is up-to-date before merging.
